@@ -69,14 +69,14 @@ h1{
 }
 .canva{
     width: 100vw;
-    height: 80vh;
+    height: 50vh;
     background-color: rgb(39, 27, 83);
     display: none;
 }
 canvas{
     margin: auto;
     width: 100vw;
-    height: 80vh;
+    height: 50vh;
     clip-path: polygon(100% 0%, 0% 0%, 0% 86%, 31% 100%, 74% 84%, 100% 100%);
 }
 .dg.ac{
